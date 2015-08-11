@@ -1,0 +1,10 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="drawer_header_height">162dp</dimen>
+    <dimen name="header_avatar_size">64dp</dimen>
+    <dimen name="backdrop_title_size">24sp</dimen>
+    <dimen name="movie_poster_thumb_width">130dp</dimen>
+    <dimen name="movie_poster_thumb_height">190dp</dimen>
+</resources>

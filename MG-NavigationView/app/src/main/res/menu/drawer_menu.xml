@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/action_first_choice"
+            android:checked="true"
+            android:title="@string/drawer_first_choice"/>
+        <item
+            android:id="@+id/action_second_choice"
+            android:title="@string/drawer_second_choice"/>
+
+        <item
+            android:id="@+id/action_third_choice"
+            android:title="@string/drawer_third_choice"/>
+
+        <item
+            android:id="@+id/section"
+            android:title="Outra Secção "
+            >
+            <menu>
+                <item
+                    android:id="@+id/action_settings"
+                    android:title="@string/drawer_settings"
+                    android:icon="@drawable/ic_settings"
+                    />
+                <item
+                    android:id="@+id/action_forth_choice"
+                    android:title="@string/drawer_About"
+                    android:icon="@drawable/ic_about"
+                    />
+            </menu>
+        </item>
+
+
+
+
+
+
+    </group>
+
+
+</menu>

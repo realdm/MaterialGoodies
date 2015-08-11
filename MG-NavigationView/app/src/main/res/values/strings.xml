@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MG-Navigation View</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_first_choice">First Choice</string>
+    <string name="drawer_third_choice">Third Choice</string>
+    <string name="drawer_second_choice">Second Choice</string>
+    <string name="drawer_settings">Settings</string>
+    <string name="drawer_About">About</string>
+</resources>
